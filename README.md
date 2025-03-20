@@ -75,8 +75,8 @@ Punya ide keren? Pull request always welcome!
 
 ## 📞 Kontak
 📌 **Author:** JhenzXdOfc
-🔗 **GitHub:** [YoshCasaster](https://github.com/JhenzXdOfc)  
-📷 **Instagram:** [@yosepwdd](https://instagram.com/JhenzXdOfc)  
+🔗 **GitHub:** [JhenzXdOfc](https://github.com/JhenzXdOfc)  
+📷 **Instagram:** [@JhenzXdOfc](https://instagram.com/JhenzXdOfc)  
 
 🔥 **Let's build something awesome together!**
 
