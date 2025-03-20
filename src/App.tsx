@@ -129,7 +129,7 @@ function App() {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
               <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
-                Bart Text Generator
+                Brat Text Generator
               </h1>
               <p className="text-gray-400">Create beautiful spaced text images with custom colors</p>
             </div>
