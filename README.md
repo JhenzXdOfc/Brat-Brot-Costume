@@ -1,6 +1,6 @@
 # 🚀 Brat Bret Brot - JhenzXdOfc
 
-![Preview](https://tmpfiles.org/dl/22648959/1742451343039.jpg)
+![Preview](https://files.catbox.moe/0mxw7a.jpg)
 
 ## 🎮 Apa Ini?
 Brat Bret Brot adalah proyek keren yang dibuat dengan React + Vite + TailwindCSS. Simple, cepet, dan pastinya mantap buat dipake!
