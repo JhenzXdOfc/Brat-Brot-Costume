@@ -20,7 +20,7 @@ Buat yang mau coba, gampang banget!
 
 ```sh
 # Clone repo
- git clone https://github.com/JhenzXdOfc/brat-bret-brot.git
+ git clone [https://github.com/JhenzXdOfc/brat-bret-brot.git](https://github.com/JhenzXdOfc/Brat-Brot-Costume.git)
 
 # Masuk folder project
 cd brat-bret-brot
